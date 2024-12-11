@@ -5,7 +5,7 @@ This project demonstrates the implementation of an intelligent chatbot capable o
 
 
 
-Features
+Features : 
 
 Interactive Interface: Built with Streamlit for seamless user interactions.
 
@@ -22,9 +22,9 @@ History Management: Allows users to review past conversations.
 
 
 
-Tools and Technologies
+Tools and Technologies : 
 
-Software Requirements
+Software Requirements :
 
 Python: Programming language.
 
@@ -35,7 +35,7 @@ NLTK: For natural language preprocessing.
 Scikit-learn: For feature extraction and intent classification.
 
 
-Hardware Requirements
+Hardware Requirements : 
 
 Processor: Dual-core processor or higher.
 
@@ -47,7 +47,7 @@ Storage: Minimum 2GB free space.
 
 
 
-Installation
+Installation : 
 
 1. Clone the repository:
 
@@ -72,7 +72,7 @@ streamlit run app.py
 
 
 
-File Structure
+File Structure : 
 
 app.py: Main application file.
 
@@ -86,7 +86,7 @@ requirements.txt: List of dependencies.
 
 
 
-How to Use
+How to Use : 
 
 1. Run the application using Streamlit.
 
@@ -102,9 +102,9 @@ How to Use
 
 
 
----
 
-Future Enhancements
+
+Future Enhancements : 
 
 Support for multiple languages.
 
@@ -117,7 +117,7 @@ Advanced machine learning models like Transformers for better accuracy.
 
 
 
-Acknowledgments
+Acknowledgments :
 
 This project is built using open-source libraries and tools. Special thanks to the creators of Streamlit, Scikit-learn, and NLTK for their powerful functionalities.
 
