@@ -3,8 +3,6 @@ P4-Implementation-Chatboy-by-NLP
 This project demonstrates the implementation of an intelligent chatbot capable of understanding and responding to user queries using Natural Language Processing (NLP). The chatbot leverages tools like NLTK for preprocessing, Scikit-learn for machine learning, and Streamlit for an interactive user interface.
 
 
-
-
 Features : 
 
 Interactive Interface: Built with Streamlit for seamless user interactions.
@@ -18,8 +16,6 @@ Response Generation: Contextually relevant responses selected from predefined da
 Conversation Logging: Logs user inputs and responses to a CSV file.
 
 History Management: Allows users to review past conversations.
-
-
 
 
 Tools and Technologies : 
@@ -42,9 +38,6 @@ Processor: Dual-core processor or higher.
 RAM: 4GB or higher recommended.
 
 Storage: Minimum 2GB free space.
-
-
-
 
 
 Installation : 
@@ -71,7 +64,6 @@ nltk.download('punkt')
 streamlit run app.py
 
 
-
 File Structure : 
 
 app.py: Main application file.
@@ -81,9 +73,6 @@ intents.json: Dataset containing predefined intents and responses.
 chat_log.csv: Log file for saving user and chatbot conversations.
 
 requirements.txt: List of dependencies.
-
-
-
 
 
 How to Use : 
@@ -100,10 +89,6 @@ How to Use :
 4. Access conversation history from the sidebar menu.
 
 
-
-
-
-
 Future Enhancements : 
 
 Support for multiple languages.
@@ -113,8 +98,6 @@ Emotion detection for empathetic responses.
 Voice input and output integration.
 
 Advanced machine learning models like Transformers for better accuracy.
-
-
 
 
 Acknowledgments :
